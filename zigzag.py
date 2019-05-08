@@ -189,8 +189,6 @@ def inverse_zigzag(input, vmax, hmax):
 			#print(7)        	
 			output[v, h] = input[i] 
 			break
-
-
 	return output
 
 
